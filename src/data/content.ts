@@ -1,17 +1,17 @@
 import { ConceptItem, ServiceItem, ProcessStep } from '../types';
 
 export const ASSETS = {
-  hero: '/src/assets/images/hero_packaging_1792519973784.jpg',
-  about: '/src/assets/images/about_craftsmanship_1792519975036.jpg',
-  serviceProduction: '/src/assets/images/service_production_1792519975342.jpg',
-  servicePrinting: '/src/assets/images/service_printing_1792519976869.jpg',
-  serviceFinishing: '/src/assets/images/service_finishing_1792519977325.jpg',
-  conceptSkincare: '/src/assets/images/concept_skincare_1792519977618.jpg',
-  conceptChocolate: '/src/assets/images/concept_chocolate_1792519979480.jpg',
-  conceptCosmetics: '/src/assets/images/concept_cosmetics_1792519979568.jpg',
-  conceptRetail: '/src/assets/images/concept_retail_1792519981044.jpg',
-  conceptGiftbox: '/src/assets/images/concept_giftbox_1792519980119.jpg',
-  conceptConsumer: '/src/assets/images/concept_consumer_1792519980572.jpg',
+  hero: '/images/hero-packaging.jpg',
+  about: '/images/about-production.jpg',
+  serviceProduction: '/images/service-production.jpg',
+  servicePrinting: '/images/service-printing.jpg',
+  serviceFinishing: '/images/service-finishing.jpg',
+  conceptSkincare: '/images/concept-skincare.jpg',
+  conceptChocolate: '/images/concept-chocolate.jpg',
+  conceptCosmetics: '/images/concept-cosmetics.jpg',
+  conceptRetail: '/images/concept-retail.jpg',
+  conceptGiftbox: '/images/concept-giftbox.jpg',
+  conceptConsumer: '/images/concept-consumer.jpg',
 };
 
 export const SERVICES: ServiceItem[] = [
